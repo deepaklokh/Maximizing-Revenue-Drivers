@@ -69,14 +69,20 @@ Implemented linear regression to explore the relationship between trip duration 
 
 * Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
 * Indicates that customers prefer to pay more with cards when they have high fare amounts and long trip distances.
-* <img src="screenshot/Screenshot%2013.png" alt="Screenshot" align="left" width="400"/>
-<img src="screenshot/Screenshot%2014.png" alt="Screenshot" align="right" width="250"/>
+<img src="screenshot/Screenshot%2013.png" alt="Screenshot" align="left" width="700"/>
+<img src="Screenshot%2014.png" alt="Screenshot" align="left" width="250"/>
+
+
+<br clear="both"/>
 
 ### 💼Preference of Payment Types
 
 * The proportion of customers paying with cards is significantly higher than those paying with cash.
 * Card payments account for 67.5% of all transactions vs. 32.5% for cash.
 * This indicates a strong preference for card payments due to convenience, security, or offered incentives.
+* <img src="screenshot/Screenshot%2015.png" alt="Screenshot" align="left" width="300"/>
+
+<br clear="both"/>                                                                       
 
 ### 👥Passenger Count Analysis
 
@@ -84,6 +90,9 @@ Implemented linear regression to explore the relationship between trip duration 
 * Cash payments are also predominantly single-passenger (20.04%).
 * Larger groups show a decrease in taxi use or may opt for alternative payment methods.
 * These insights emphasize the importance of considering both payment method and passenger count when analyzing transaction data.
+<img src="screenshot/Screenshot%2016.png" alt="Screenshot" align="left" width="900"/>
+
+<br clear="both"/>
 
 ---
 
@@ -109,4 +118,12 @@ We reject the null hypothesis, suggesting a significant difference in average fa
 
 ---
 
-Thank you!
+🙏 Thank You!
+
+Feel free to fork, clone, and contribute.
+
+## 🔗 Author
+
+* Deepak Anand Lokhande
+* [LinkedIn](https://www.linkedin.com/in/deepaklokhande)
+* 📧 deepak50384297@gmail.com
