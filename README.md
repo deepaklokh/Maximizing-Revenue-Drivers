@@ -1,11 +1,12 @@
-# Maximizing Revenue for Drivers Through Payment Type
+# Maximizing Revenue for Drivers Through Payment Type <img src="screenshot/Screenshot%2010.png" alt="Screenshot" align="right" width="200"/>
 
-## 📌Agenda
+## 📌 Agenda 
 
-* Problem Statement
+
+* Problem Statement 
 * Research Question
 * Data Overview
-* Methodology
+* Methodology Methodology                             
 * Analysis and Findings
 * Hypothesis Testing
 * Recommendations
@@ -14,9 +15,9 @@
 
 ## ❓Problem Statement
 
-In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness.
+In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. <img src="screenshot/Screenshot%2011.png" alt="Screenshot" align="right" width="100"/>
 
-Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.
+Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount. 
 
 ---
 
@@ -29,7 +30,12 @@ Our goal is to use data-driven insights to maximise revenue streams for taxi dri
 
 ## 📊Data Overview
 
-For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation.
+For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation. <img src="screenshot/Screenshot%2012.png" alt="Screenshot" align="right" width="600"/>
+
+
+
+
+
 
 ### Relevant Columns:
 
@@ -63,6 +69,8 @@ Implemented linear regression to explore the relationship between trip duration 
 
 * Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
 * Indicates that customers prefer to pay more with cards when they have high fare amounts and long trip distances.
+* <img src="screenshot/Screenshot%2013.png" alt="Screenshot" align="left" width="400"/>
+<img src="screenshot/Screenshot%2014.png" alt="Screenshot" align="right" width="250"/>
 
 ### 💼Preference of Payment Types
 
